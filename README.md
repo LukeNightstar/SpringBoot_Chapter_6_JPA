@@ -6,4 +6,5 @@ SpringBoot 핵심 가이드 6.JPA
 - SpringBoot 3.1.2
 - Spring 6
 - Swagger 3.0
+- Springdoc 2.1.0
 - Maria DB 11.2
